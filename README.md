@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancruzet&label=Profile%20views&color=0e75b6&style=flat-square" alt="juliancruzet" /> </p>
 
-- 🔭 I’m currently working on [An NBA Player Analysis Model](https://scottiebarnes.streamlit.app)
+- 🔭 I’m currently working on [StudySync](https://github.com/JulianCruzet/StudySync)
 
 - 🌱 I’m currently learning **In-Depth Data Structures and Algorithms**
 
