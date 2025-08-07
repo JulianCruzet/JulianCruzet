@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancruzet&label=Profile%20views&color=0e75b6&style=flat-square" alt="juliancruzet" /> </p>
 
-- 🔭 I’m currently working on [StudySync](https://github.com/JulianCruzet/StudySync)
+- 🔭 I’m currently working on [CleanFeed for X](https://github.com/JulianCruzet/CleanFeed-for-X)
 
-- 🌱 I’m currently learning **In-Depth Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on **Large Scale Projects!**
-
-- 🤝 I’m looking for help with **Networking, and Criticism**
+- 🌱 I’m currently learning **AI Automation for Workflows**
 
 - 👨‍💻 All of my projects are available at [https://juliancruzet.ca](https://juliancruzet.ca)
-
-- 💬 Ask me about **react, graphic design, or ML**
 
 - 📫 How to reach me **juliancruzet@gmail.com**
 
