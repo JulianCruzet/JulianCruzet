@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancruzet&label=Profile%20views&color=0e75b6&style=flat-square" alt="juliancruzet" /> </p>
 
-- 🔭 I’m currently working on [Mohtion](https://github.com/ajaya-coder/Mohtion)
+- 🔭 I’m currently working on [Orpheus](https://github.com/JulianCruzet/Orpheus)
 
 - 🌱 I’m currently learning **AI Automation for Workflows**
 
