@@ -1,24 +1,85 @@
-<h1 align="center">Hi 👋, I'm Julian Cruzet</h1>
-<h3 align="center">Software developer based in Toronto</h3>
+<h1 align="center">Hey, I'm Julian 👋</h1>
+<h3 align="center">CS @ Ontario Tech · Incoming SWE Intern @ Shopify · Toronto 🇨🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliancruzet&label=Profile%20views&color=0e75b6&style=flat-square" alt="juliancruzet" /> </p>
-
-- 🔭 I’m currently working on [Orpheus](https://github.com/JulianCruzet/Orpheus)
-
-- 🌱 I’m currently learning **AI Automation for Workflows**
-
-- 👨‍💻 All of my projects are available at [https://juliancruzet.ca](https://juliancruzet.ca)
-
-- 📫 How to reach me **juliancruzet@gmail.com**
-
-- ⚡ Fun fact **I'm Super into Fashion and the NBA**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/julian cruzet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian cruzet" height="30" width="40" /></a>
-<a href="https://instagram.com/juliancruzet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliancruzet" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jjuliixn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jjuliixn" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juliancruzet&label=Profile%20views&color=0e75b6&style=flat-square" alt="juliancruzet" />
+  <a href="https://juliancruzet.ca"><img src="https://img.shields.io/badge/Portfolio-juliancruzet.ca-3b82f6?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:juliancruzet@gmail.com"><img src="https://img.shields.io/badge/Email-juliancruzet@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img 
+---
+
+### 👨‍💻 About Me
+
+- 🛍️ Incoming **Fullstack SWE Intern @ Shopify** (Summer 2026)
+- 💼 Previously **SWE Intern @ RBC** — shipped 14+ features in APEX & LWC serving 6,500+ Wealth advisors
+- 🎓 BSc Computer Science @ **Ontario Tech University** — graduating Dec. 2026
+- 🧠 Interested in **AI, distributed systems, and developer tooling**
+- 🌐 Everything I've built lives at **[juliancruzet.ca](https://juliancruzet.ca)**
+- ⚡ Fun fact: heavy into **fashion and the NBA** 🏀
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[Orpheus](https://github.com/JulianCruzet/Orpheus)** 🏆 | AI e-commerce copilot — manages Shopify storefronts end-to-end via chat. 12-tool agent loop w/ Gemini function-calling. *Google Showcase Winner* | Next.js · TypeScript · Gemini 2.5 · Shopify API · Supabase |
+| **[CutOS](https://github.com/shamsharoon/CutOS)** 🏆 | AI-native video editor w/ chat-based editing, semantic video search, GPU effects. 80+ ⭐ on GitHub. *Hackathon winner* | Next.js · TypeScript · Supabase · OpenAI · TwelveLabs · ElevenLabs |
+
+---
+
+### 🛠️ Tech I Work With
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=stellar&logoColor=white" />
+</p>
+
+**Infra & Tools**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+---
+
+### 🤝 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/JulianCruzet" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/juliancruzet" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/jjuliixn" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://juliancruzet.ca" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
