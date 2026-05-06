@@ -11,12 +11,10 @@
 
 ### 👨‍💻 About Me
 
-- 🛍️ Incoming **Fullstack SWE Intern @ Shopify** (Summer 2026)
-- 💼 Previously **SWE Intern @ RBC** — shipped 14+ features in APEX & LWC serving 6,500+ Wealth advisors
+- 🛍️  **Backend SWE Intern @ Shopify** - shipping admin experience
+- 💼 Prev **SWE Intern @ RBC** — shipped 14+ features serving 6,500+ advisors
 - 🎓 BSc Computer Science @ **Ontario Tech University** — graduating Dec. 2026
-- 🧠 Interested in **AI, distributed systems, and developer tooling**
-- 🌐 Everything I've built lives at **[juliancruzet.ca](https://juliancruzet.ca)**
-- ⚡ Fun fact: heavy into **fashion and the NBA** 🏀
+- 🌐 **[juliancruzet.ca](https://juliancruzet.ca)**
 
 ---
 
@@ -76,7 +74,7 @@
   <a href="https://instagram.com/juliancruzet" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/jjuliixn" target="_blank">
+  <a href="https://leetcode.com/jjae" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://juliancruzet.ca" target="_blank">
